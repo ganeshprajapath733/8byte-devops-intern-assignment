@@ -1,3 +1,5 @@
+![CI](https://github.com/ganeshprajapath733/8byte-devops-intern-assignment/actions/workflows/main.yml/badge.svg)
+
 # 8byte DevOps Intern Assignment
 
 ## Overview
